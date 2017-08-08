@@ -1,5 +1,6 @@
 # Kandie Angel Blog virtual env
-kab/
+kandie_angel_blog/kab/
+kandie_angel_blog/db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
